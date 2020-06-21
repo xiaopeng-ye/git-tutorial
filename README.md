@@ -1,7 +1,4 @@
 # Git tutorial
-<<<<<<< HEAD
-- feature-A
-=======
 
+- feature-A
 - fix-B
->>>>>>> fix-B
